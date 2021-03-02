@@ -1631,3 +1631,460 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.02-03.33.23:184][988]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 47048764 while cooking SoundWave /Game/SynthAmbientPack/Wav/Andromeda.Andromeda.
 [2021.03.02-03.33.26:080][285]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
 [2021.03.02-03.33.27:142][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.03.02-03.47.58:066][576]BlueprintLog: New page: Compile BP_FPS_Character
+[2021.03.02-03.47.58:261][576]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2021.03.02-03.47.58:279][576]LogScript: Warning: Accessed None trying to read property HUD
+	BP_FPS_Character_C /Engine/Transient.World_1:PersistentLevel.BP_FPS_Character_C_8
+	Function /Game/FPS_AnimBP/Blueprints/BP_FPS_Character.BP_FPS_Character_C:ExecuteUbergraph_BP_FPS_Character:2E9D
+[2021.03.02-03.47.58:980][577]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/ProjectNova/Saved/BP_FPS_Character07F8112C4AC37D898D75CA9B0033588C.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/ProjectNova/Content/FPS_AnimBP/Blueprints/BP_FPS_Character.uasset'
+[2021.03.02-03.47.58:994][577]AssetCheck: New page: Asset Save: BP_FPS_Character
+[2021.03.02-03.47.58:994][577]LogContentValidation: Display: Validating Blueprint /Game/FPS_AnimBP/Blueprints/BP_FPS_Character.BP_FPS_Character
+[2021.03.02-03.48.00:653][700]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.02-03.48.00:669][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.02-03.48.00:669][700]PIE: New page: PIE session: TestMap (Mar 1, 2021, 5:48:00 PM)
+[2021.03.02-03.48.00:694][700]LogPlayLevel: Creating play world package: /Game/GameLevels/UEDPIE_0_TestMap
+[2021.03.02-03.48.00:724][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030119s)
+[2021.03.02-03.48.00:725][700]LogAIModule: Creating AISystem for world TestMap
+[2021.03.02-03.48.00:725][700]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A303899000), frame # 158700
+[2021.03.02-03.48.00:725][700]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A347D7BEC0), frame # 158700
+[2021.03.02-03.48.00:725][700]LogPlayLevel: PIE: World Init took: (0.001030s)
+[2021.03.02-03.48.00:725][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameLevels/TestMap.TestMap to /Game/GameLevels/UEDPIE_0_TestMap.TestMap (0.031284s)
+[2021.03.02-03.48.00:751][700]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.03.02-03.48.00:753][700]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.02-03.48.00:753][700]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.02-03.48.00:753][700]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.02-03.48.00:753][700]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.02-03.48.00:753][700]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.02-03.48.00:753][700]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.02-03.48.00:753][700]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.02-03.48.00:753][700]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.02-03.48.00:753][700]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.02-03.48.00:753][700]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.02-03.48.00:756][700]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.02-03.48.00:756][700]LogAudioMixer: Display: 1: FrontRight
+[2021.03.02-03.48.00:767][700]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.03.02-03.48.00:767][700]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.02-03.48.00:767][700]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.02-03.48.00:767][700]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.02-03.48.00:768][700]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.02-03.48.00:777][700]LogInit: FAudioDevice initialized.
+[2021.03.02-03.48.00:788][700]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2021.03.02-03.48.00:790][700]LogWorld: Bringing World /Game/GameLevels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.03.01-22.48.00
+[2021.03.02-03.48.00:790][700]LogWorld: Bringing up level for play took: 0.001393
+[2021.03.02-03.48.00:790][700]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.03.02-03.48.00:798][700]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'WeaponsBaseInfo' of length 3 in '/Game/FPS_AnimBP/Blueprints/BP_FPS_Character.BP_FPS_Character_C'!
+[2021.03.02-03.48.00:799][700]PIE: Server logged in
+[2021.03.02-03.48.00:800][700]PIE: Play in editor total start time 0.131 seconds.
+[2021.03.02-03.48.21:445][ 38]LogSlate: Window 'BP_FPS_Character' being destroyed
+[2021.03.02-03.48.21:453][ 38]LogSlate: Window 'BP_FPS_Character' being destroyed
+[2021.03.02-03.48.21:453][ 38]LogScript: Warning: Accessed None trying to read property HUD
+	BP_FPS_Character_C /Engine/Transient.World_0:PersistentLevel.BP_FPS_Character_C_0
+	Function /Game/FPS_AnimBP/Blueprints/BP_FPS_Character.BP_FPS_Character_C:ExecuteUbergraph_BP_FPS_Character:2E9D
+[2021.03.02-03.48.21:454][ 38]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.03.02-03.48.21:454][ 38]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.03.02-03.48.21:454][ 38]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-03.48.22:577][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.03.02-03.48.23:646][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-03.48.23:646][247]LogWorld: BeginTearingDown for /Game/GameLevels/UEDPIE_0_TestMap
+[2021.03.02-03.48.23:646][247]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.02-03.48.23:646][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-03.48.23:650][247]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.02-03.48.23:654][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-03.48.23:688][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-03.48.23:700][247]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A347D7BEC0), frame # 161247
+[2021.03.02-03.48.23:700][247]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A303899000), frame # 161247
+[2021.03.02-03.48.23:720][247]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.03.02-03.48.23:752][248]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.03.02-03.48.24:555][335]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.03.02-03.50.22:057][895]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2021.03.02-03.50.22:057][895]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2021.03.02-03.50.22:510][895]LogTexture: Display: Building textures: DECAL_03_ALPHA_TX (AutoDXT, 2048X2048)
+[2021.03.02-03.50.22:510][895]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SciFi_Robot/Mannequin/Animations/ThirdPersonWalk.ThirdPersonWalk
+[2021.03.02-03.50.22:510][895]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SciFi_Robot/Mannequin/Animations/ThirdPerson_Jump.ThirdPerson_Jump
+[2021.03.02-03.50.22:510][895]LogMaterial: Display: Missing cached shader map for material DECAL_MIL_MAT, compiling. 
+[2021.03.02-03.50.23:335][895]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 94
+[2021.03.02-03.50.23:335][895]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 86
+[2021.03.02-03.50.23:335][895]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 78
+[2021.03.02-03.50.23:335][895]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 70
+[2021.03.02-03.50.23:335][895]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 62
+[2021.03.02-03.50.23:335][895]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 54
+[2021.03.02-03.50.23:335][895]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 46
+[2021.03.02-03.50.23:335][895]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 38
+[2021.03.02-03.50.23:335][895]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 30
+[2021.03.02-03.50.23:335][895]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 22
+[2021.03.02-03.50.23:335][895]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 14
+[2021.03.02-03.50.23:335][895]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2021.03.02-03.50.23:335][895]LogTexture: Display: Building textures: PULSE_FL_TX (AutoDXT, 4000X5400)
+[2021.03.02-03.50.23:335][895]LogTexture: Display: Building textures: MIL_EM_TX (AutoDXT, 4096X4096)
+[2021.03.02-03.50.23:335][895]LogTexture: Display: Building textures: MIL_BC_TX (AutoDXT, 4096X4096)
+[2021.03.02-03.50.23:335][895]LogTexture: Display: Building textures: MIL_ORM_TX (AutoDXT, 4096X4096)
+[2021.03.02-03.50.23:335][895]LogTexture: Display: Building textures: MIL_NMR_TX (BC5, 4096X4096)
+[2021.03.02-03.50.23:335][895]LogMaterial: Display: Missing cached shader map for material VISOR_MAT, compiling. 
+[2021.03.02-03.50.23:375][895]LogSkeletalMesh: Building Skeletal Mesh SCIFI_ROBOT_SK...
+[2021.03.02-03.50.24:163][895]LogSkeletalMesh: Built Skeletal Mesh [0.74s] /Game/SciFi_Robot/MESHES/DEPRECATED/SCIFI_ROBOT_SK.SCIFI_ROBOT_SK
+[2021.03.02-03.50.27:106][895]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 39
+[2021.03.02-03.50.27:106][895]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 35
+[2021.03.02-03.50.27:106][895]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 32
+[2021.03.02-03.50.27:106][895]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 29
+[2021.03.02-03.50.27:106][895]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 26
+[2021.03.02-03.50.27:106][895]LogMaterial: Display: Missing cached shader map for material MIL_MAT, compiling. 
+[2021.03.02-03.50.27:164][895]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SciFi_Robot/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.03.02-03.50.27:772][895]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 62
+[2021.03.02-03.50.27:772][895]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 56
+[2021.03.02-03.50.27:772][895]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 51
+[2021.03.02-03.50.27:772][895]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 46
+[2021.03.02-03.50.27:774][895]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 42
+[2021.03.02-03.50.27:972][895]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SciFi_Robot/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2021.03.02-03.50.27:972][895]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SciFi_Robot/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+[2021.03.02-03.50.27:972][895]LogSlate: Took 0.019236 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.03.02-03.50.28:048][897]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SciFi_Robot/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+[2021.03.02-03.50.28:048][897]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SciFi_Robot/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
+[2021.03.02-03.50.28:442][913]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 38
+[2021.03.02-03.50.29:315][939]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 34
+[2021.03.02-03.50.29:885][961]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 31
+[2021.03.02-03.50.29:972][965]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 28
+[2021.03.02-03.50.30:102][970]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 25
+[2021.03.02-03.50.30:130][971]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 22
+[2021.03.02-03.50.30:130][971]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 20
+[2021.03.02-03.50.30:213][974]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 18
+[2021.03.02-03.50.30:382][981]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 16
+[2021.03.02-03.50.30:502][986]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 14
+[2021.03.02-03.50.30:532][987]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 12
+[2021.03.02-03.50.30:660][991]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2021.03.02-03.50.30:787][996]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2021.03.02-03.50.30:886][  0]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2021.03.02-03.50.30:912][  1]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.03.02-03.50.31:055][  6]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2021.03.02-03.50.31:087][  7]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2021.03.02-03.50.31:179][ 10]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2021.03.02-03.50.31:381][ 17]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2021.03.02-03.50.31:423][ 18]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2021.03.02-03.50.31:450][ 19]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.03.02-03.50.47:087][605]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.03.02-03.50.47:094][605]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2021.03.02-03.50.47:094][605]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2021.03.02-03.50.47:128][605]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.03.02-03.50.55:750][499]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.03.02-03.50.55:754][499]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2021.03.02-03.50.55:754][499]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2021.03.02-03.50.55:787][499]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.03.02-03.50.56:254][538]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/ProjectNova/Saved/ThirdPersonCharacter2AD7130F462F52951D330A8887C538E0.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/ProjectNova/Content/SciFi_Robot/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.03.02-03.50.56:278][538]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.03.02-03.50.56:278][538]LogContentValidation: Display: Validating Blueprint /Game/SciFi_Robot/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.03.02-03.51.01:741][ 43]LogSlate: Window 'Tutorials' being destroyed
+[2021.03.02-03.51.05:655][437]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.03.02-03.51.05:714][437]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.03.02-03.51.05:714][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-03.51.08:229][707]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SciFi_Robot/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2021.03.02-03.51.11:929][ 75]LogSlate: Window 'ThirdPersonGameMode' being destroyed
+[2021.03.02-03.51.11:995][ 75]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.03.02-03.51.11:995][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-03.51.46:560][558]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2021.03.02-03.51.46:612][558]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/SciFi_Robot/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2021.03.02-03.52.03:861][318]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.02-03.52.03:878][318]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.03.02-03.52.03:879][318]LogPlayLevel: [PlayLevel] Compiling ThirdPersonCharacter before play...
+[2021.03.02-03.52.03:882][318]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2021.03.02-03.52.03:882][318]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2021.03.02-03.52.04:211][318]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2021.03.02-03.52.04:221][318]LogPlayLevel: PlayLevel: Blueprint regeneration took 342 ms (1 blueprints)
+[2021.03.02-03.52.04:221][318]PIE: New page: PIE session: TestMap (Mar 1, 2021, 5:52:04 PM)
+[2021.03.02-03.52.04:255][318]LogPlayLevel: Creating play world package: /Game/GameLevels/UEDPIE_0_TestMap
+[2021.03.02-03.52.04:269][318]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014546s)
+[2021.03.02-03.52.04:270][318]LogAIModule: Creating AISystem for world TestMap
+[2021.03.02-03.52.04:270][318]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A2F9E9CC00), frame # 172318
+[2021.03.02-03.52.04:270][318]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A2FF124400), frame # 172318
+[2021.03.02-03.52.04:270][318]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2021.03.02-03.52.04:271][318]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameLevels/TestMap.TestMap to /Game/GameLevels/UEDPIE_0_TestMap.TestMap (0.015734s)
+[2021.03.02-03.52.04:286][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.03.02-03.52.04:287][318]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.02-03.52.04:287][318]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.02-03.52.04:287][318]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.02-03.52.04:287][318]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.02-03.52.04:287][318]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.02-03.52.04:287][318]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.02-03.52.04:287][318]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.02-03.52.04:287][318]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.02-03.52.04:287][318]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.02-03.52.04:287][318]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.02-03.52.04:289][318]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.02-03.52.04:289][318]LogAudioMixer: Display: 1: FrontRight
+[2021.03.02-03.52.04:300][318]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.03.02-03.52.04:300][318]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.02-03.52.04:300][318]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.02-03.52.04:300][318]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.02-03.52.04:300][318]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.02-03.52.04:310][318]LogInit: FAudioDevice initialized.
+[2021.03.02-03.52.04:317][318]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2021.03.02-03.52.04:320][318]LogWorld: Bringing World /Game/GameLevels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.03.01-22.52.04
+[2021.03.02-03.52.04:322][318]LogWorld: Bringing up level for play took: 0.004064
+[2021.03.02-03.52.04:322][318]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.03.02-03.52.04:330][318]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'WeaponsBaseInfo' of length 3 in '/Game/FPS_AnimBP/Blueprints/BP_FPS_Character.BP_FPS_Character_C'!
+[2021.03.02-03.52.04:331][318]PIE: Server logged in
+[2021.03.02-03.52.04:332][318]PIE: Play in editor total start time 0.454 seconds.
+[2021.03.02-03.52.10:565][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-03.52.10:565][ 46]LogWorld: BeginTearingDown for /Game/GameLevels/UEDPIE_0_TestMap
+[2021.03.02-03.52.10:570][ 46]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.02-03.52.10:570][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-03.52.10:578][ 46]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.02-03.52.10:581][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-03.52.10:595][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-03.52.10:692][ 46]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A2FF124400), frame # 173046
+[2021.03.02-03.52.10:692][ 46]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A2F9E9CC00), frame # 173046
+[2021.03.02-03.52.10:694][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.03.02-03.52.10:731][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.03.02-03.52.16:377][469]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.03.02-03.52.38:831][841]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.02-03.52.38:846][841]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.02-03.52.38:846][841]PIE: New page: PIE session: TestMap (Mar 1, 2021, 5:52:38 PM)
+[2021.03.02-03.52.38:874][841]LogPlayLevel: Creating play world package: /Game/GameLevels/UEDPIE_0_TestMap
+[2021.03.02-03.52.38:889][841]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014533s)
+[2021.03.02-03.52.38:890][841]LogAIModule: Creating AISystem for world TestMap
+[2021.03.02-03.52.38:890][841]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A302A01800), frame # 175841
+[2021.03.02-03.52.38:890][841]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A2DDF21D00), frame # 175841
+[2021.03.02-03.52.38:890][841]LogPlayLevel: PIE: World Init took: (0.001232s)
+[2021.03.02-03.52.38:890][841]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameLevels/TestMap.TestMap to /Game/GameLevels/UEDPIE_0_TestMap.TestMap (0.015942s)
+[2021.03.02-03.52.38:912][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.03.02-03.52.38:921][841]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.02-03.52.38:921][841]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.02-03.52.38:921][841]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.02-03.52.38:921][841]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.02-03.52.38:921][841]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.02-03.52.38:921][841]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.02-03.52.38:921][841]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.02-03.52.38:921][841]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.02-03.52.38:921][841]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.02-03.52.38:921][841]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.02-03.52.38:924][841]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.02-03.52.38:924][841]LogAudioMixer: Display: 1: FrontRight
+[2021.03.02-03.52.38:933][841]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.03.02-03.52.38:933][841]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.02-03.52.38:933][841]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.02-03.52.38:933][841]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.02-03.52.38:934][841]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.02-03.52.38:943][841]LogInit: FAudioDevice initialized.
+[2021.03.02-03.52.38:950][841]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2021.03.02-03.52.38:953][841]LogWorld: Bringing World /Game/GameLevels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.03.01-22.52.38
+[2021.03.02-03.52.38:953][841]LogWorld: Bringing up level for play took: 0.002704
+[2021.03.02-03.52.38:954][841]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.03.02-03.52.38:960][841]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'WeaponsBaseInfo' of length 3 in '/Game/FPS_AnimBP/Blueprints/BP_FPS_Character.BP_FPS_Character_C'!
+[2021.03.02-03.52.38:967][841]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'WeaponsBaseInfo' of length 3 in '/Game/FPS_AnimBP/Blueprints/BP_FPS_Character.BP_FPS_Character_C'!
+[2021.03.02-03.52.38:969][841]PIE: Server logged in
+[2021.03.02-03.52.38:970][841]PIE: Play in editor total start time 0.124 seconds.
+[2021.03.02-03.52.40:666][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-03.52.40:666][ 31]LogWorld: BeginTearingDown for /Game/GameLevels/UEDPIE_0_TestMap
+[2021.03.02-03.52.40:666][ 31]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.02-03.52.40:667][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-03.52.40:670][ 31]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.02-03.52.40:674][ 31]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-03.52.40:700][ 31]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-03.52.40:701][ 31]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A2DDF21D00), frame # 176031
+[2021.03.02-03.52.40:701][ 31]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A302A01800), frame # 176031
+[2021.03.02-03.52.40:703][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.03.02-03.52.40:742][ 32]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.03.02-03.52.43:896][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2021.03.02-03.52.52:892][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube20)
+[2021.03.02-03.52.55:587][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube18)
+[2021.03.02-03.52.59:383][190]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.03.02-03.53.13:380][716]LogEditorViewport: Clicking on Actor (LMB): BP_FPS_Character_C (BP_FPS_Character)
+[2021.03.02-03.53.29:065][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2021.03.02-03.53.30:079][442]LogSlate: Window 'Save Content' being destroyed
+[2021.03.02-03.53.30:112][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.03.02-03.53.30:176][442]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/ProjectNova/Saved/TestMapAD51DD1746AC97E03EF7329DB381A328.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/ProjectNova/Content/GameLevels/TestMap.umap'
+[2021.03.02-03.53.30:225][442]LogFileHelpers: Saving map 'TestMap' took 0.130
+[2021.03.02-03.53.30:264][442]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/ProjectNova/Saved/ThirdPersonCharacterC52A13A543F382D71310759F259E43C7.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/ProjectNova/Content/SciFi_Robot/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.03.02-03.53.30:282][442]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.02-03.53.30:282][442]LogContentValidation: Display: Validating World /Game/GameLevels/TestMap.TestMap
+[2021.03.02-03.53.30:282][442]LogContentValidation: Display: Validating Blueprint /Game/SciFi_Robot/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.03.02-03.55.14:317][127]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.02-03.55.14:333][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.02-03.55.14:334][127]PIE: New page: PIE session: TestMap (Mar 1, 2021, 5:55:14 PM)
+[2021.03.02-03.55.14:354][127]LogPlayLevel: Creating play world package: /Game/GameLevels/UEDPIE_0_TestMap
+[2021.03.02-03.55.14:369][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015001s)
+[2021.03.02-03.55.14:370][127]LogAIModule: Creating AISystem for world TestMap
+[2021.03.02-03.55.14:370][127]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A367A39C00), frame # 182127
+[2021.03.02-03.55.14:370][127]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A2DEC7F9C0), frame # 182127
+[2021.03.02-03.55.14:371][127]LogPlayLevel: PIE: World Init took: (0.001199s)
+[2021.03.02-03.55.14:371][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameLevels/TestMap.TestMap to /Game/GameLevels/UEDPIE_0_TestMap.TestMap (0.016362s)
+[2021.03.02-03.55.14:394][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.03.02-03.55.14:401][127]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.02-03.55.14:401][127]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.02-03.55.14:401][127]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.02-03.55.14:401][127]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.02-03.55.14:401][127]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.02-03.55.14:401][127]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.02-03.55.14:401][127]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.02-03.55.14:401][127]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.02-03.55.14:401][127]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.02-03.55.14:401][127]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.02-03.55.14:403][127]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.02-03.55.14:403][127]LogAudioMixer: Display: 1: FrontRight
+[2021.03.02-03.55.14:414][127]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.03.02-03.55.14:415][127]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.02-03.55.14:415][127]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.02-03.55.14:415][127]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.02-03.55.14:415][127]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.02-03.55.14:425][127]LogInit: FAudioDevice initialized.
+[2021.03.02-03.55.14:430][127]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2021.03.02-03.55.14:433][127]LogWorld: Bringing World /Game/GameLevels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.03.01-22.55.14
+[2021.03.02-03.55.14:433][127]LogWorld: Bringing up level for play took: 0.002706
+[2021.03.02-03.55.14:433][127]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.03.02-03.55.14:440][127]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'WeaponsBaseInfo' of length 3 in '/Game/FPS_AnimBP/Blueprints/BP_FPS_Character.BP_FPS_Character_C'!
+[2021.03.02-03.55.14:447][127]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'WeaponsBaseInfo' of length 3 in '/Game/FPS_AnimBP/Blueprints/BP_FPS_Character.BP_FPS_Character_C'!
+[2021.03.02-03.55.14:448][127]PIE: Server logged in
+[2021.03.02-03.55.14:449][127]PIE: Play in editor total start time 0.116 seconds.
+[2021.03.02-03.55.15:796][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-03.55.15:796][279]LogWorld: BeginTearingDown for /Game/GameLevels/UEDPIE_0_TestMap
+[2021.03.02-03.55.15:796][279]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.02-03.55.15:797][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-03.55.15:805][279]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.02-03.55.15:808][279]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-03.55.15:835][279]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-03.55.15:837][279]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A2DEC7F9C0), frame # 182279
+[2021.03.02-03.55.15:837][279]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A367A39C00), frame # 182279
+[2021.03.02-03.55.15:839][279]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2021.03.02-03.55.15:871][280]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.03.02-03.55.18:434][568]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.03.02-03.55.21:510][919]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.03.02-03.55.22:973][ 85]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.03.02-03.55.23:568][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall)
+[2021.03.02-03.55.42:776][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (BigWall3)
+[2021.03.02-03.55.47:906][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (EditorCube9)
+[2021.03.02-03.55.51:959][264]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.03.02-03.55.53:173][406]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.03.02-03.55.55:789][693]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.03.02-03.55.56:484][775]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.03.02-03.55.57:198][859]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2021.03.02-03.55.58:094][961]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.02-03.55.58:110][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.02-03.55.58:110][961]PIE: New page: PIE session: TestMap (Mar 1, 2021, 5:55:58 PM)
+[2021.03.02-03.55.58:134][961]LogPlayLevel: Creating play world package: /Game/GameLevels/UEDPIE_0_TestMap
+[2021.03.02-03.55.58:149][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014816s)
+[2021.03.02-03.55.58:150][961]LogAIModule: Creating AISystem for world TestMap
+[2021.03.02-03.55.58:150][961]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A2FFB9DE00), frame # 186961
+[2021.03.02-03.55.58:150][961]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A309F08B80), frame # 186961
+[2021.03.02-03.55.58:151][961]LogPlayLevel: PIE: World Init took: (0.001241s)
+[2021.03.02-03.55.58:151][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameLevels/TestMap.TestMap to /Game/GameLevels/UEDPIE_0_TestMap.TestMap (0.016221s)
+[2021.03.02-03.55.58:176][961]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.03.02-03.55.58:189][961]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.02-03.55.58:189][961]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.02-03.55.58:189][961]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.02-03.55.58:189][961]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.02-03.55.58:189][961]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.02-03.55.58:189][961]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.02-03.55.58:189][961]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.02-03.55.58:189][961]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.02-03.55.58:189][961]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.02-03.55.58:189][961]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.02-03.55.58:191][961]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.02-03.55.58:191][961]LogAudioMixer: Display: 1: FrontRight
+[2021.03.02-03.55.58:200][961]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.03.02-03.55.58:201][961]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.02-03.55.58:201][961]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.02-03.55.58:201][961]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.02-03.55.58:201][961]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.02-03.55.58:210][961]LogInit: FAudioDevice initialized.
+[2021.03.02-03.55.58:218][961]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2021.03.02-03.55.58:221][961]LogWorld: Bringing World /Game/GameLevels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.03.01-22.55.58
+[2021.03.02-03.55.58:221][961]LogWorld: Bringing up level for play took: 0.002635
+[2021.03.02-03.55.58:221][961]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.03.02-03.55.58:228][961]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'WeaponsBaseInfo' of length 3 in '/Game/FPS_AnimBP/Blueprints/BP_FPS_Character.BP_FPS_Character_C'!
+[2021.03.02-03.55.58:235][961]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'WeaponsBaseInfo' of length 3 in '/Game/FPS_AnimBP/Blueprints/BP_FPS_Character.BP_FPS_Character_C'!
+[2021.03.02-03.55.58:236][961]PIE: Server logged in
+[2021.03.02-03.55.58:237][961]PIE: Play in editor total start time 0.128 seconds.
+[2021.03.02-03.56.06:296][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-03.56.06:296][920]LogWorld: BeginTearingDown for /Game/GameLevels/UEDPIE_0_TestMap
+[2021.03.02-03.56.06:297][920]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.02-03.56.06:297][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-03.56.06:306][920]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.02-03.56.06:310][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-03.56.06:335][920]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-03.56.06:336][920]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A309F08B80), frame # 187920
+[2021.03.02-03.56.06:336][920]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A2FFB9DE00), frame # 187920
+[2021.03.02-03.56.06:339][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.03.02-03.56.06:371][921]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.03.02-03.56.09:198][251]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2021.03.02-03.56.10:243][373]Cmd: DELETE
+[2021.03.02-03.56.10:244][373]Cmd: ACTOR DELETE
+[2021.03.02-03.56.10:257][373]LogEditorActor: Deleted Actor: PlayerStart
+[2021.03.02-03.56.10:273][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.03.02-03.56.10:276][373]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2021.03.02-03.56.11:751][545]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.02-03.56.11:768][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.02-03.56.11:768][545]PIE: New page: PIE session: TestMap (Mar 1, 2021, 5:56:11 PM)
+[2021.03.02-03.56.11:804][545]LogPlayLevel: Creating play world package: /Game/GameLevels/UEDPIE_0_TestMap
+[2021.03.02-03.56.11:819][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015047s)
+[2021.03.02-03.56.11:820][545]LogAIModule: Creating AISystem for world TestMap
+[2021.03.02-03.56.11:820][545]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001A33DA96A00), frame # 188545
+[2021.03.02-03.56.11:820][545]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001A303D77D80), frame # 188545
+[2021.03.02-03.56.11:821][545]LogPlayLevel: PIE: World Init took: (0.001174s)
+[2021.03.02-03.56.11:821][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameLevels/TestMap.TestMap to /Game/GameLevels/UEDPIE_0_TestMap.TestMap (0.016403s)
+[2021.03.02-03.56.11:838][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2021.03.02-03.56.11:840][545]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.02-03.56.11:840][545]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.02-03.56.11:840][545]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.02-03.56.11:840][545]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.02-03.56.11:840][545]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.02-03.56.11:840][545]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.02-03.56.11:840][545]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.02-03.56.11:840][545]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.02-03.56.11:841][545]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.02-03.56.11:841][545]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.02-03.56.11:843][545]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.02-03.56.11:843][545]LogAudioMixer: Display: 1: FrontRight
+[2021.03.02-03.56.11:852][545]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.03.02-03.56.11:852][545]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.02-03.56.11:852][545]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.02-03.56.11:852][545]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.02-03.56.11:853][545]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.02-03.56.11:862][545]LogInit: FAudioDevice initialized.
+[2021.03.02-03.56.11:871][545]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2021.03.02-03.56.11:874][545]LogWorld: Bringing World /Game/GameLevels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.03.01-22.56.11
+[2021.03.02-03.56.11:874][545]LogWorld: Bringing up level for play took: 0.002544
+[2021.03.02-03.56.11:874][545]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.03.02-03.56.11:880][545]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'WeaponsBaseInfo' of length 3 in '/Game/FPS_AnimBP/Blueprints/BP_FPS_Character.BP_FPS_Character_C'!
+[2021.03.02-03.56.11:887][545]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'WeaponsBaseInfo' of length 3 in '/Game/FPS_AnimBP/Blueprints/BP_FPS_Character.BP_FPS_Character_C'!
+[2021.03.02-03.56.11:889][545]PIE: Server logged in
+[2021.03.02-03.56.11:890][545]PIE: Play in editor total start time 0.123 seconds.
+[2021.03.02-03.56.14:995][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-03.56.14:995][911]LogWorld: BeginTearingDown for /Game/GameLevels/UEDPIE_0_TestMap
+[2021.03.02-03.56.14:996][911]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.02-03.56.14:996][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-03.56.15:005][911]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.02-03.56.15:008][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.02-03.56.15:023][911]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.02-03.56.15:037][911]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001A303D77D80), frame # 188911
+[2021.03.02-03.56.15:037][911]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001A33DA96A00), frame # 188911
+[2021.03.02-03.56.15:039][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.03.02-03.56.15:067][912]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.03.02-03.56.17:089][151]Cmd: TRANSACTION UNDO
+[2021.03.02-03.56.17:089][151]LogEditorTransaction: Undo Delete Actors
+[2021.03.02-03.56.19:936][417]LogEditorViewport: Clicking on Actor (LMB): BP_FPS_Character_C (BP_FPS_Character)
+[2021.03.02-03.56.28:894][244]LogTexture: Display: Building textures: Cloak_BC_TX (AutoDXT, 2048X2048)
+[2021.03.02-03.56.28:894][244]LogTexture: Display: Building textures: Cloak_ORM_TX (AutoDXT, 2048X2048)
+[2021.03.02-03.56.28:894][244]LogTexture: Display: Building textures: Cloak_NMR_TX (BC5, 2048X2048)
+[2021.03.02-03.56.28:894][244]LogMaterial: Display: Missing cached shader map for material CLOAK_MAT, compiling. 
+[2021.03.02-03.56.28:930][244]LogSkeletalMesh: Building Skeletal Mesh CLOAK_SK...
+[2021.03.02-03.56.28:941][244]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 88
+[2021.03.02-03.56.28:941][244]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 80
+[2021.03.02-03.56.28:941][244]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 72
+[2021.03.02-03.56.28:941][244]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 64
+[2021.03.02-03.56.28:941][244]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 56
+[2021.03.02-03.56.28:941][244]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 48
+[2021.03.02-03.56.28:941][244]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 40
+[2021.03.02-03.56.28:941][244]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 32
+[2021.03.02-03.56.28:941][244]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 24
+[2021.03.02-03.56.28:941][244]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 16
+[2021.03.02-03.56.28:941][244]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2021.03.02-03.56.28:941][244]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/SciFi_Robot/MESHES/CLOAK_SK.CLOAK_SK
+[2021.03.02-03.56.35:991][796]Cmd: TRANSACTION UNDO
+[2021.03.02-03.56.35:991][796]LogEditorTransaction: Undo Move Actors
+[2021.03.02-03.56.37:397][902]Cmd: TRANSACTION UNDO
+[2021.03.02-03.56.37:397][902]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2021.03.02-03.56.42:505][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.03.02-03.56.43:803][460]LogSlate: Window 'Save Content' being destroyed
+[2021.03.02-03.56.43:838][460]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.03.02-03.56.43:882][460]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/ProjectNova/Saved/TestMapF24C49454ADE746FC00A82AB685675E4.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/ProjectNova/Content/GameLevels/TestMap.umap'
+[2021.03.02-03.56.43:916][460]LogFileHelpers: Saving map 'TestMap' took 0.094
+[2021.03.02-03.56.43:941][460]AssetCheck: New page: Asset Save: TestMap
+[2021.03.02-03.56.43:942][460]LogContentValidation: Display: Validating World /Game/GameLevels/TestMap.TestMap
