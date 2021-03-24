@@ -1153,3 +1153,68 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.24-01.11.26:887][  1]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
 [2021.03.24-01.11.26:889][  1]LogEditorActor: Deleted 1 Actors (0.009 secs)
 [2021.03.24-01.11.29:748][339]LogEditorViewport: Clicking on Actor (LMB): BP_anim_door_3x3_C (BP_anim_door_3x3)
+[2021.03.24-01.15.04:060][971]LogSlate: Window 'New Plugin' being destroyed
+[2021.03.24-01.15.05:832][180]LogSlate: Window 'Plugins' being destroyed
+[2021.03.24-01.15.05:836][180]LogSlate: Window 'Plugins' being destroyed
+[2021.03.24-01.15.05:836][180]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2021.03.24-01.15.18:006][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.03.24-01.15.19:516][505]LogSlate: Window 'Save Content' being destroyed
+[2021.03.24-01.15.19:538][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.03.24-01.15.19:589][505]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/ProjectNova/Saved/TestMapB01CD7B341432B5F04D983BFD429D791.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/ProjectNova/Content/GameLevels/TestMap.umap'
+[2021.03.24-01.15.19:606][505]LogFileHelpers: Saving map 'TestMap' took 0.071
+[2021.03.24-01.15.19:624][506]AssetCheck: New page: Asset Save: TestMap
+[2021.03.24-01.15.19:624][506]LogContentValidation: Display: Validating World /Game/GameLevels/TestMap.TestMap
+[2021.03.24-01.17.01:173][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.03.24-01.17.06:273][900]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.24-01.17.06:273][900]PIE: New page: PIE session: TestMap (Mar 23, 2021, 5:17:06 PM)
+[2021.03.24-01.17.06:298][900]LogPlayLevel: Creating play world package: /Game/GameLevels/UEDPIE_0_TestMap
+[2021.03.24-01.17.06:317][900]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018954s)
+[2021.03.24-01.17.06:318][900]LogAIModule: Creating AISystem for world TestMap
+[2021.03.24-01.17.06:318][900]LogPlayLevel: PIE: World Init took: (0.001187s)
+[2021.03.24-01.17.06:318][900]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameLevels/TestMap.TestMap to /Game/GameLevels/UEDPIE_0_TestMap.TestMap (0.020304s)
+[2021.03.24-01.17.06:322][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.03.24-01.17.06:324][900]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.03.24-01.17.06:324][900]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.24-01.17.06:324][900]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.24-01.17.06:324][900]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.24-01.17.06:324][900]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.24-01.17.06:324][900]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.24-01.17.06:324][900]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.24-01.17.06:324][900]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.24-01.17.06:324][900]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.24-01.17.06:324][900]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.24-01.17.06:324][900]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.24-01.17.06:327][900]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.24-01.17.06:327][900]LogAudioMixer: Display: 1: FrontRight
+[2021.03.24-01.17.06:334][900]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.03.24-01.17.06:334][900]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.24-01.17.06:334][900]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.24-01.17.06:334][900]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.24-01.17.06:335][900]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.24-01.17.06:335][900]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.24-01.17.06:335][900]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.24-01.17.06:345][900]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.24-01.17.06:345][900]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.24-01.17.06:345][900]LogInit: FAudioDevice initialized.
+[2021.03.24-01.17.06:345][900]LogAudio: Display: Audio Device (ID: 4) registered with world 'TestMap'.
+[2021.03.24-01.17.06:352][900]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2021.03.24-01.17.06:355][900]LogWorld: Bringing World /Game/GameLevels/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2021.03.23-21.17.06
+[2021.03.24-01.17.06:355][900]LogWorld: Bringing up level for play took: 0.002987
+[2021.03.24-01.17.06:355][900]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.03.24-01.17.06:357][900]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.03.24-01.17.06:360][900]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'WeaponsBaseInfo' of length 3 in '/Game/FPS_AnimBP/Blueprints/BP_FPS_Character.BP_FPS_Character_C'!
+[2021.03.24-01.17.06:361][900]PIE: Server logged in
+[2021.03.24-01.17.06:362][900]PIE: Play in editor total start time 0.09 seconds.
+[2021.03.24-01.17.35:419][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.24-01.17.35:419][377]LogWorld: BeginTearingDown for /Game/GameLevels/UEDPIE_0_TestMap
+[2021.03.24-01.17.35:419][377]LogWorld: UWorld::CleanupWorld for TestMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.24-01.17.35:420][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.24-01.17.35:429][377]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.24-01.17.35:438][377]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.24-01.17.35:441][377]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.24-01.17.35:441][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.24-01.17.35:442][377]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.24-01.17.35:454][377]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.24-01.17.35:457][377]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.03.24-01.17.35:490][378]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.03.24-01.17.40:315][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
