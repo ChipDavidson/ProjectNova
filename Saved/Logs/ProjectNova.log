@@ -895,3 +895,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.26-01.32.08:146][942]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FPS_AnimBP/Blueprints/BP_FirstPersonGameMode.BP_FirstPersonGameMode
 [2021.03.26-01.32.08:508][942]LogSlate: Took 0.007454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2021.03.26-01.32.33:398][744]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.03.26-01.33.30:834][ 34]LogDirectoryWatcher: A directory notification failed for 'C:/Users/ctlen/Desktop/Portfolio/Projects WIP/ProjectNova/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2021.03.26-01.33.30:834][ 34]LogDirectoryWatcher: A directory notification failed for 'C:/Users/ctlen/Desktop/Portfolio/Projects WIP/ProjectNova/Content/Developers/ctlen/Collections/' because it could not be accessed. Aborting watch request...
+[2021.03.26-01.33.30:834][ 34]LogDirectoryWatcher: A directory notification failed for 'C:/Users/ctlen/Desktop/Portfolio/Projects WIP/ProjectNova/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2021.03.26-01.33.40:618][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.03.26-01.33.41:791][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.03.26-01.33.41:929][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
