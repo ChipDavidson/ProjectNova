@@ -2481,3 +2481,458 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.31-04.16.40:362][754]LogFileHelpers: Saving map 'Arena1' took 0.151
 [2021.03.31-04.16.40:377][754]AssetCheck: New page: Asset Save: Arena1
 [2021.03.31-04.16.40:377][754]LogContentValidation: Display: Validating World /Game/GameLevels/Arena1.Arena1
+[2021.03.31-04.21.40:142][515]LogTexture: Display: Building textures: T_Blank_C (AutoDXT, 8X8)
+[2021.03.31-04.21.40:142][515]LogTexture: Display: Building textures: T_Blank_N (BC5, 8X8)
+[2021.03.31-04.21.40:142][515]LogTexture: Display: Building textures: T_Blank_A (AutoDXT, 8X8)
+[2021.03.31-04.21.40:142][515]LogTexture: Display: Building textures: T_Cell_Door_Front_A (AutoDXT, 4096X4096)
+[2021.03.31-04.21.40:142][515]LogTexture: Display: Building textures: T_Cell_Door_Front_C (AutoDXT, 4096X4096)
+[2021.03.31-04.21.40:142][515]LogTexture: Display: Building textures: T_Cell_Door_Front_N (BC5, 4096X4096)
+[2021.03.31-04.21.40:142][515]LogMaterial: Display: Missing cached shader map for material PUGlow, compiling. 
+[2021.03.31-04.21.40:194][515]LogStaticMesh: Building static mesh SM_Cell_Door...
+[2021.03.31-04.21.40:209][515]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2021.03.31-04.21.40:209][515]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 19
+[2021.03.31-04.21.40:209][515]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 17
+[2021.03.31-04.21.40:209][515]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 15
+[2021.03.31-04.21.40:209][515]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2021.03.31-04.21.40:209][515]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2021.03.31-04.21.40:209][515]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 9
+[2021.03.31-04.21.40:209][515]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.03.31-04.21.40:209][515]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2021.03.31-04.21.40:209][515]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2021.03.31-04.21.40:209][515]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.03.31-04.21.40:243][515]LogStaticMesh: Built static mesh [0.05s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Door.SM_Cell_Door
+[2021.03.31-04.21.40:248][515]LogStaticMesh: Building static mesh SM_Lock_Key...
+[2021.03.31-04.21.40:272][515]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Props/SM_Lock_Key.SM_Lock_Key
+[2021.03.31-04.21.40:286][515]LogStaticMesh: Building static mesh SM_Lock_Closed...
+[2021.03.31-04.21.40:332][515]LogStaticMesh: Built static mesh [0.05s] /Game/MedievalDungeon/Meshes/Props/SM_Lock_Closed.SM_Lock_Closed
+[2021.03.31-04.21.40:344][515]LogMaterial: Display: Missing cached shader map for material M_Master, compiling. 
+[2021.03.31-04.21.40:427][515]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 92
+[2021.03.31-04.21.40:983][525]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 84
+[2021.03.31-04.21.41:585][529]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 76
+[2021.03.31-04.21.41:673][532]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 69
+[2021.03.31-04.21.41:689][533]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 63
+[2021.03.31-04.21.41:728][535]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 57
+[2021.03.31-04.21.41:766][537]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 52
+[2021.03.31-04.21.41:788][537]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 47
+[2021.03.31-04.21.41:824][539]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 43
+[2021.03.31-04.21.41:925][542]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 39
+[2021.03.31-04.21.41:925][542]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 35
+[2021.03.31-04.21.41:951][543]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 31
+[2021.03.31-04.21.42:302][554]LogEditorViewport: Clicking on Actor (LMB): KeyDoors_C (KeyDoors)
+[2021.03.31-04.21.43:049][586]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 28
+[2021.03.31-04.21.43:243][596]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 25
+[2021.03.31-04.21.43:359][603]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 22
+[2021.03.31-04.21.43:393][605]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 20
+[2021.03.31-04.21.43:522][615]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 18
+[2021.03.31-04.21.43:538][616]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 16
+[2021.03.31-04.21.43:553][617]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 14
+[2021.03.31-04.21.43:778][631]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 12
+[2021.03.31-04.21.43:850][635]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.03.31-04.21.44:112][651]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2021.03.31-04.21.44:159][654]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2021.03.31-04.21.44:255][660]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 7
+[2021.03.31-04.21.44:270][661]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 6
+[2021.03.31-04.21.44:318][664]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2021.03.31-04.21.44:394][669]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2021.03.31-04.21.44:437][672]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2021.03.31-04.21.44:453][673]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.03.31-04.21.44:526][678]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2021.03.31-04.22.10:937][674]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/LenhartChris/Blueprints/KeyDoors.KeyDoors
+[2021.03.31-04.23.21:884][322]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.31-04.23.21:896][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.31-04.23.21:896][322]PIE: New page: PIE session: Arena1 (Mar 30, 2021, 8:23:21 PM)
+[2021.03.31-04.23.21:896][322]LogPlayLevel: Creating play world package: /Game/GameLevels/UEDPIE_0_Arena1
+[2021.03.31-04.23.21:932][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.036144s)
+[2021.03.31-04.23.21:933][322]LogAIModule: Creating AISystem for world Arena1
+[2021.03.31-04.23.21:934][322]LogPlayLevel: PIE: World Init took: (0.001142s)
+[2021.03.31-04.23.21:934][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameLevels/Arena1.Arena1 to /Game/GameLevels/UEDPIE_0_Arena1.Arena1 (0.037447s)
+[2021.03.31-04.23.21:970][322]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.03.31-04.23.21:982][322]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.03.31-04.23.21:982][322]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.31-04.23.21:982][322]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.31-04.23.21:982][322]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.31-04.23.21:982][322]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.31-04.23.21:982][322]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.31-04.23.21:982][322]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.31-04.23.21:982][322]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.31-04.23.21:982][322]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.31-04.23.21:983][322]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.31-04.23.21:983][322]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.31-04.23.21:985][322]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.31-04.23.21:985][322]LogAudioMixer: Display: 1: FrontRight
+[2021.03.31-04.23.21:993][322]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.03.31-04.23.21:994][322]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.31-04.23.21:994][322]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.31-04.23.21:994][322]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.31-04.23.21:994][322]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.31-04.23.21:994][322]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.31-04.23.21:994][322]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.31-04.23.22:004][322]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.31-04.23.22:004][322]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.31-04.23.22:004][322]LogInit: FAudioDevice initialized.
+[2021.03.31-04.23.22:004][322]LogAudio: Display: Audio Device (ID: 11) registered with world 'Arena1'.
+[2021.03.31-04.23.22:011][322]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2021.03.31-04.23.22:021][322]LogWorld: Bringing World /Game/GameLevels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2021.03.31-00.23.22
+[2021.03.31-04.23.22:022][322]LogWorld: Bringing up level for play took: 0.010399
+[2021.03.31-04.23.22:022][322]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.03.31-04.23.22:024][322]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.03.31-04.23.22:027][322]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'WeaponsBaseInfo' of length 3 in '/Game/FPS_AnimBP/Blueprints/BP_FPS_Character.BP_FPS_Character_C'!
+[2021.03.31-04.23.22:028][322]PIE: Server logged in
+[2021.03.31-04.23.22:029][322]PIE: Play in editor total start time 0.134 seconds.
+[2021.03.31-04.23.22:199][330]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1621.713 Y=101.913 Z=5722.771] for [Enemy_Character_C]
+[2021.03.31-04.23.22:199][330]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1953.792 Y=141.119 Z=5739.361] for [Enemy_Character_C]
+[2021.03.31-04.23.22:390][346]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1598.714 Y=126.736 Z=5693.270] for [Enemy_Character_C]
+[2021.03.31-04.23.22:488][356]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1944.333 Y=139.250 Z=5719.159] for [Enemy_Character_C]
+[2021.03.31-04.23.22:589][366]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1955.078 Y=99.397 Z=5702.042] for [Enemy_Character_C]
+[2021.03.31-04.23.22:691][377]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1599.599 Y=98.153 Z=5700.049] for [Enemy_Character_C]
+[2021.03.31-04.23.22:692][377]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1936.940 Y=101.883 Z=5725.335] for [Enemy_Character_C]
+[2021.03.31-04.23.22:794][388]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1577.046 Y=106.721 Z=5736.781] for [Enemy_Character_C]
+[2021.03.31-04.23.23:094][419]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1592.194 Y=92.988 Z=5716.401] for [Enemy_Character_C]
+[2021.03.31-04.23.23:094][419]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1952.925 Y=128.195 Z=5713.894] for [Enemy_Character_C]
+[2021.03.31-04.23.23:191][429]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1615.177 Y=98.362 Z=5703.176] for [Enemy_Character_C]
+[2021.03.31-04.23.23:290][439]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1600.431 Y=94.584 Z=5714.190] for [Enemy_Character_C]
+[2021.03.31-04.23.23:290][439]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1930.641 Y=124.124 Z=5688.412] for [Enemy_Character_C]
+[2021.03.31-04.23.23:488][460]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1590.937 Y=96.672 Z=5728.541] for [Enemy_Character_C]
+[2021.03.31-04.23.23:594][470]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1910.908 Y=121.509 Z=5739.712] for [Enemy_Character_C]
+[2021.03.31-04.23.23:690][480]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1579.542 Y=150.977 Z=5747.342] for [Enemy_Character_C]
+[2021.03.31-04.23.23:788][490]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1971.352 Y=96.192 Z=5698.784] for [Enemy_Character_C]
+[2021.03.31-04.23.23:788][490]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1579.122 Y=103.868 Z=5700.954] for [Enemy_Character_C]
+[2021.03.31-04.23.23:896][501]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1588.202 Y=121.468 Z=5750.631] for [Enemy_Character_C]
+[2021.03.31-04.23.23:993][511]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1926.079 Y=109.590 Z=5720.724] for [Enemy_Character_C]
+[2021.03.31-04.23.23:994][511]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1573.174 Y=149.160 Z=5715.472] for [Enemy_Character_C]
+[2021.03.31-04.23.24:195][531]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1942.712 Y=150.789 Z=5711.731] for [Enemy_Character_C]
+[2021.03.31-04.23.24:390][549]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1968.900 Y=138.798 Z=5703.428] for [Enemy_Character_C]
+[2021.03.31-04.23.24:390][549]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1581.835 Y=135.296 Z=5747.188] for [Enemy_Character_C]
+[2021.03.31-04.23.24:597][568]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1958.986 Y=93.153 Z=5746.369] for [Enemy_Character_C]
+[2021.03.31-04.23.34:458][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-04.23.34:458][537]LogWorld: BeginTearingDown for /Game/GameLevels/UEDPIE_0_Arena1
+[2021.03.31-04.23.34:459][537]LogWorld: UWorld::CleanupWorld for Arena1, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-04.23.34:462][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-04.23.34:475][537]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.31-04.23.34:486][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-04.23.34:503][537]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.31-04.23.34:504][537]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-04.23.34:505][537]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-04.23.34:518][537]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-04.23.34:526][537]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.03.31-04.23.34:576][538]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.03.31-04.23.52:660][321]LogEditorViewport: Clicking on Actor (LMB): KeyDoors_C (KeyDoors)
+[2021.03.31-04.23.52:722][326]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Key2)
+[2021.03.31-04.23.53:505][404]LogEditorViewport: Clicking on Component (SHIFT LMB): StaticMeshComponent (Key1)
+[2021.03.31-04.23.54:588][512]LogEditorViewport: Clicking on Component (SHIFT LMB): StaticMeshComponent (Key3)
+[2021.03.31-04.24.06:678][661]Cmd: TRANSACTION UNDO
+[2021.03.31-04.24.06:678][661]LogEditorTransaction: Undo Scale Components
+[2021.03.31-04.24.09:622][898]Cmd: TRANSACTION UNDO
+[2021.03.31-04.24.09:622][898]LogEditorTransaction: Undo Scale Components
+[2021.03.31-04.24.13:277][239]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Key1)
+[2021.03.31-04.24.13:658][268]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Key1)
+[2021.03.31-04.24.13:724][272]LogEditorViewport: Clicking on Actor (double click): KeyDoors_C (KeyDoors)
+[2021.03.31-04.24.14:261][328]LogEditorViewport: Clicking on Actor (LMB): KeyDoors_C (KeyDoors)
+[2021.03.31-04.24.14:315][332]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Key1)
+[2021.03.31-04.24.26:229][535]Cmd: TRANSACTION UNDO
+[2021.03.31-04.24.26:229][535]LogEditorTransaction: Undo Scale Components
+[2021.03.31-04.24.34:536][300]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Key2)
+[2021.03.31-04.24.34:581][301]LogEditorViewport: Clicking on Actor (double click): KeyDoors_C (KeyDoors)
+[2021.03.31-04.24.35:586][396]LogEditorViewport: Clicking on Actor (LMB): KeyDoors_C (KeyDoors)
+[2021.03.31-04.24.36:433][485]LogEditorViewport: Clicking on Actor (LMB): KeyDoors_C (KeyDoors)
+[2021.03.31-04.24.36:487][489]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Key1)
+[2021.03.31-04.24.41:302][890]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Key2)
+[2021.03.31-04.24.48:271][453]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Key3)
+[2021.03.31-04.24.56:265][167]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Key2)
+[2021.03.31-04.24.56:310][168]LogEditorViewport: Clicking on Actor (double click): KeyDoors_C (KeyDoors)
+[2021.03.31-04.24.58:739][386]LogEditorViewport: Clicking on Actor (LMB): KeyDoors_C (KeyDoors)
+[2021.03.31-04.24.58:785][388]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Key2)
+[2021.03.31-04.25.13:066][666]LogEditorViewport: Clicking on Component (LMB): CapsuleComponent (Capsule3)
+[2021.03.31-04.25.13:142][668]LogEditorViewport: Clicking on Actor (double click): KeyDoors_C (KeyDoors)
+[2021.03.31-04.25.14:505][771]LogEditorViewport: Clicking on Actor (LMB): KeyDoors_C (KeyDoors)
+[2021.03.31-04.25.14:559][773]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Key1)
+[2021.03.31-04.25.35:650][733]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Key3)
+[2021.03.31-04.25.35:720][735]LogEditorViewport: Clicking on Actor (double click): KeyDoors_C (KeyDoors)
+[2021.03.31-04.25.37:241][864]LogEditorViewport: Clicking on Actor (LMB): KeyDoors_C (KeyDoors)
+[2021.03.31-04.25.37:311][868]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Key3)
+[2021.03.31-04.25.41:318][234]Cmd: TRANSACTION UNDO
+[2021.03.31-04.25.41:318][234]LogEditorTransaction: Undo Scale Components
+[2021.03.31-04.26.51:447][713]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.03.31-04.26.51:573][713]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/ProjectNova/Saved/Arena1_Auto305FD22DA45AB28EF31E181A9815D91E0.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/ProjectNova/Saved/Autosaves/Game/GameLevels/Arena1_Auto3.umap'
+[2021.03.31-04.26.51:576][713]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/GameLevels/Arena1' took 0.148
+[2021.03.31-04.26.51:576][713]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.148
+[2021.03.31-04.30.01:682][939]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Door1)
+[2021.03.31-04.30.01:803][946]LogEditorViewport: Clicking on Actor (double click): KeyDoors_C (KeyDoors)
+[2021.03.31-04.30.02:809][ 25]LogEditorViewport: Clicking on Actor (LMB): KeyDoors_C (KeyDoors)
+[2021.03.31-04.30.02:900][ 31]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Door1)
+[2021.03.31-04.30.04:723][151]LogEditorViewport: Clicking on Component (SHIFT LMB): StaticMeshComponent (Door2)
+[2021.03.31-04.30.06:036][248]LogEditorViewport: Clicking on Component (SHIFT LMB): StaticMeshComponent (Door3)
+[2021.03.31-04.31.12:028][173]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.31-04.31.12:038][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.31-04.31.12:038][173]PIE: New page: PIE session: Arena1 (Mar 30, 2021, 8:31:12 PM)
+[2021.03.31-04.31.12:038][173]LogPlayLevel: Creating play world package: /Game/GameLevels/UEDPIE_0_Arena1
+[2021.03.31-04.31.12:073][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034742s)
+[2021.03.31-04.31.12:074][173]LogAIModule: Creating AISystem for world Arena1
+[2021.03.31-04.31.12:075][173]LogPlayLevel: PIE: World Init took: (0.001335s)
+[2021.03.31-04.31.12:075][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameLevels/Arena1.Arena1 to /Game/GameLevels/UEDPIE_0_Arena1.Arena1 (0.036256s)
+[2021.03.31-04.31.12:096][173]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.03.31-04.31.12:102][173]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.03.31-04.31.12:102][173]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.31-04.31.12:102][173]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.31-04.31.12:102][173]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.31-04.31.12:102][173]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.31-04.31.12:102][173]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.31-04.31.12:102][173]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.31-04.31.12:102][173]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.31-04.31.12:102][173]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.31-04.31.12:103][173]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.31-04.31.12:103][173]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.31-04.31.12:105][173]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.31-04.31.12:105][173]LogAudioMixer: Display: 1: FrontRight
+[2021.03.31-04.31.12:114][173]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.03.31-04.31.12:114][173]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.31-04.31.12:114][173]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.31-04.31.12:114][173]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.31-04.31.12:114][173]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.31-04.31.12:114][173]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.31-04.31.12:114][173]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.31-04.31.12:125][173]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.31-04.31.12:125][173]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.31-04.31.12:125][173]LogInit: FAudioDevice initialized.
+[2021.03.31-04.31.12:125][173]LogAudio: Display: Audio Device (ID: 12) registered with world 'Arena1'.
+[2021.03.31-04.31.12:130][173]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2021.03.31-04.31.12:141][173]LogWorld: Bringing World /Game/GameLevels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2021.03.31-00.31.12
+[2021.03.31-04.31.12:141][173]LogWorld: Bringing up level for play took: 0.010680
+[2021.03.31-04.31.12:141][173]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.03.31-04.31.12:144][173]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.03.31-04.31.12:146][173]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'WeaponsBaseInfo' of length 3 in '/Game/FPS_AnimBP/Blueprints/BP_FPS_Character.BP_FPS_Character_C'!
+[2021.03.31-04.31.12:148][173]PIE: Server logged in
+[2021.03.31-04.31.12:149][173]PIE: Play in editor total start time 0.111 seconds.
+[2021.03.31-04.31.12:334][184]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1933.110 Y=147.920 Z=5719.979] for [Enemy_Character_C]
+[2021.03.31-04.31.12:434][192]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1570.080 Y=123.833 Z=5723.948] for [Enemy_Character_C]
+[2021.03.31-04.31.12:534][200]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1594.267 Y=135.316 Z=5701.292] for [Enemy_Character_C]
+[2021.03.31-04.31.12:535][200]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1954.958 Y=142.578 Z=5696.436] for [Enemy_Character_C]
+[2021.03.31-04.31.12:632][208]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1564.573 Y=133.324 Z=5708.465] for [Enemy_Character_C]
+[2021.03.31-04.31.12:733][216]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1926.694 Y=98.625 Z=5748.809] for [Enemy_Character_C]
+[2021.03.31-04.31.12:833][224]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1566.932 Y=92.658 Z=5706.706] for [Enemy_Character_C]
+[2021.03.31-04.31.12:935][232]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1968.160 Y=94.520 Z=5700.208] for [Enemy_Character_C]
+[2021.03.31-04.31.13:140][248]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1929.544 Y=145.086 Z=5714.167] for [Enemy_Character_C]
+[2021.03.31-04.31.13:141][248]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1581.116 Y=147.832 Z=5733.308] for [Enemy_Character_C]
+[2021.03.31-04.31.13:234][255]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1606.593 Y=123.941 Z=5732.408] for [Enemy_Character_C]
+[2021.03.31-04.31.13:441][271]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1956.445 Y=111.770 Z=5711.938] for [Enemy_Character_C]
+[2021.03.31-04.31.13:531][278]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1581.305 Y=116.468 Z=5739.630] for [Enemy_Character_C]
+[2021.03.31-04.31.13:842][302]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1570.498 Y=128.700 Z=5688.137] for [Enemy_Character_C]
+[2021.03.31-04.31.13:843][302]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1921.799 Y=121.833 Z=5708.112] for [Enemy_Character_C]
+[2021.03.31-04.31.13:934][309]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1559.594 Y=88.537 Z=5750.867] for [Enemy_Character_C]
+[2021.03.31-04.31.13:934][309]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1960.380 Y=149.287 Z=5708.922] for [Enemy_Character_C]
+[2021.03.31-04.31.14:040][317]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1934.802 Y=149.764 Z=5696.010] for [Enemy_Character_C]
+[2021.03.31-04.31.14:041][317]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1580.343 Y=110.464 Z=5728.531] for [Enemy_Character_C]
+[2021.03.31-04.31.14:135][324]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1956.648 Y=130.056 Z=5693.262] for [Enemy_Character_C]
+[2021.03.31-04.31.14:136][324]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1571.985 Y=150.543 Z=5699.399] for [Enemy_Character_C]
+[2021.03.31-04.31.14:543][353]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1952.687 Y=113.098 Z=5714.462] for [Enemy_Character_C]
+[2021.03.31-04.31.14:543][353]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1591.021 Y=124.749 Z=5741.259] for [Enemy_Character_C]
+[2021.03.31-04.31.14:641][360]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1600.101 Y=119.624 Z=5717.819] for [Enemy_Character_C]
+[2021.03.31-04.31.14:642][360]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1971.037 Y=124.605 Z=5749.338] for [Enemy_Character_C]
+[2021.03.31-04.31.37:849][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-04.31.37:849][  1]LogWorld: BeginTearingDown for /Game/GameLevels/UEDPIE_0_Arena1
+[2021.03.31-04.31.37:849][  1]LogWorld: UWorld::CleanupWorld for Arena1, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-04.31.37:853][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-04.31.37:868][  1]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.31-04.31.37:878][  1]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-04.31.37:896][  1]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-04.31.37:897][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-04.31.37:898][  1]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-04.31.37:917][  1]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.03.31-04.31.38:000][  2]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.03.31-04.31.42:711][367]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
+[2021.03.31-04.31.49:466][861]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.31-04.31.49:478][861]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.31-04.31.49:478][861]PIE: New page: PIE session: Arena1 (Mar 30, 2021, 8:31:49 PM)
+[2021.03.31-04.31.49:478][861]LogPlayLevel: Creating play world package: /Game/GameLevels/UEDPIE_0_Arena1
+[2021.03.31-04.31.49:513][861]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035031s)
+[2021.03.31-04.31.49:514][861]LogAIModule: Creating AISystem for world Arena1
+[2021.03.31-04.31.49:515][861]LogPlayLevel: PIE: World Init took: (0.001292s)
+[2021.03.31-04.31.49:515][861]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameLevels/Arena1.Arena1 to /Game/GameLevels/UEDPIE_0_Arena1.Arena1 (0.036477s)
+[2021.03.31-04.31.49:536][861]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2021.03.31-04.31.49:540][861]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.03.31-04.31.49:540][861]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.31-04.31.49:540][861]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.31-04.31.49:540][861]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.31-04.31.49:540][861]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.31-04.31.49:540][861]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.31-04.31.49:540][861]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.31-04.31.49:540][861]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.31-04.31.49:540][861]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.31-04.31.49:541][861]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.31-04.31.49:541][861]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.31-04.31.49:543][861]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.31-04.31.49:543][861]LogAudioMixer: Display: 1: FrontRight
+[2021.03.31-04.31.49:550][861]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.03.31-04.31.49:550][861]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.31-04.31.49:550][861]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.31-04.31.49:550][861]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.31-04.31.49:551][861]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.31-04.31.49:551][861]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.31-04.31.49:551][861]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.31-04.31.49:562][861]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.31-04.31.49:562][861]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.31-04.31.49:562][861]LogInit: FAudioDevice initialized.
+[2021.03.31-04.31.49:562][861]LogAudio: Display: Audio Device (ID: 13) registered with world 'Arena1'.
+[2021.03.31-04.31.49:566][861]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2021.03.31-04.31.49:576][861]LogWorld: Bringing World /Game/GameLevels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2021.03.31-00.31.49
+[2021.03.31-04.31.49:576][861]LogWorld: Bringing up level for play took: 0.010287
+[2021.03.31-04.31.49:577][861]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.03.31-04.31.49:579][861]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.03.31-04.31.49:581][861]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'WeaponsBaseInfo' of length 3 in '/Game/FPS_AnimBP/Blueprints/BP_FPS_Character.BP_FPS_Character_C'!
+[2021.03.31-04.31.49:582][861]PIE: Server logged in
+[2021.03.31-04.31.49:583][861]PIE: Play in editor total start time 0.105 seconds.
+[2021.03.31-04.31.49:770][873]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1599.865 Y=114.708 Z=5727.255] for [Enemy_Character_C]
+[2021.03.31-04.31.49:880][882]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1569.159 Y=101.985 Z=5727.124] for [Enemy_Character_C]
+[2021.03.31-04.31.49:980][890]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1598.052 Y=107.553 Z=5724.024] for [Enemy_Character_C]
+[2021.03.31-04.31.49:981][890]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1943.124 Y=130.550 Z=5734.148] for [Enemy_Character_C]
+[2021.03.31-04.31.50:080][898]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1919.073 Y=93.463 Z=5703.604] for [Enemy_Character_C]
+[2021.03.31-04.31.50:171][905]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1570.317 Y=97.032 Z=5720.224] for [Enemy_Character_C]
+[2021.03.31-04.31.50:272][913]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1923.143 Y=94.860 Z=5709.491] for [Enemy_Character_C]
+[2021.03.31-04.31.50:574][936]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1568.246 Y=118.769 Z=5743.662] for [Enemy_Character_C]
+[2021.03.31-04.31.50:574][936]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1912.992 Y=147.359 Z=5713.382] for [Enemy_Character_C]
+[2021.03.31-04.31.50:676][944]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1954.804 Y=125.786 Z=5736.177] for [Enemy_Character_C]
+[2021.03.31-04.31.50:781][952]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1936.620 Y=118.444 Z=5702.915] for [Enemy_Character_C]
+[2021.03.31-04.31.50:871][959]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1581.591 Y=125.368 Z=5740.425] for [Enemy_Character_C]
+[2021.03.31-04.31.50:974][967]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1967.580 Y=98.985 Z=5694.479] for [Enemy_Character_C]
+[2021.03.31-04.31.50:975][967]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1588.845 Y=120.546 Z=5739.855] for [Enemy_Character_C]
+[2021.03.31-04.31.51:277][990]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1595.880 Y=146.976 Z=5734.818] for [Enemy_Character_C]
+[2021.03.31-04.31.51:278][990]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1951.511 Y=143.287 Z=5741.867] for [Enemy_Character_C]
+[2021.03.31-04.31.51:480][  5]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1922.770 Y=140.478 Z=5725.521] for [Enemy_Character_C]
+[2021.03.31-04.31.51:480][  5]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1596.454 Y=101.377 Z=5746.191] for [Enemy_Character_C]
+[2021.03.31-04.31.51:671][ 19]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1917.535 Y=147.639 Z=5697.553] for [Enemy_Character_C]
+[2021.03.31-04.31.51:671][ 19]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1602.378 Y=126.818 Z=5748.852] for [Enemy_Character_C]
+[2021.03.31-04.31.51:875][ 34]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1922.434 Y=122.853 Z=5688.455] for [Enemy_Character_C]
+[2021.03.31-04.31.51:875][ 34]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1569.321 Y=105.633 Z=5747.812] for [Enemy_Character_C]
+[2021.03.31-04.33.19:038][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-04.33.19:038][560]LogWorld: BeginTearingDown for /Game/GameLevels/UEDPIE_0_Arena1
+[2021.03.31-04.33.19:039][560]LogWorld: UWorld::CleanupWorld for Arena1, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-04.33.19:043][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-04.33.19:056][560]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.31-04.33.19:076][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-04.33.19:095][560]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-04.33.19:096][560]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-04.33.19:097][560]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-04.33.19:116][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.03.31-04.33.19:206][561]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.03.31-04.33.20:672][675]LogEditorViewport: Clicking on Actor (LMB): BP_Elevator_C (Sample_Elevator2)
+[2021.03.31-04.33.22:984][853]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SuperGrid/TutorialLevel/Blueprints/LevelElements/BP_Elevator.BP_Elevator
+[2021.03.31-04.33.53:108][678]BlueprintLog: New page: Compile BP_Elevator
+[2021.03.31-04.33.53:182][678]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.03.31-04.33.53:842][734]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/ProjectNova/Saved/BP_ElevatorD3E7A99A44C7367A1386D9948AE6AA3B.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/ProjectNova/Content/SuperGrid/TutorialLevel/Blueprints/LevelElements/BP_Elevator.uasset'
+[2021.03.31-04.33.53:861][734]AssetCheck: New page: Asset Save: BP_Elevator
+[2021.03.31-04.33.53:861][734]LogContentValidation: Display: Validating Blueprint /Game/SuperGrid/TutorialLevel/Blueprints/LevelElements/BP_Elevator.BP_Elevator
+[2021.03.31-04.34.01:176][592]BlueprintLog: New page: Compile BP_Elevator
+[2021.03.31-04.34.01:246][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2021.03.31-04.34.01:720][633]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/ProjectNova/Saved/BP_ElevatorFB4E7AFD489A012CB4DF7984844DC88F.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/ProjectNova/Content/SuperGrid/TutorialLevel/Blueprints/LevelElements/BP_Elevator.uasset'
+[2021.03.31-04.34.01:735][633]AssetCheck: New page: Asset Save: BP_Elevator
+[2021.03.31-04.34.01:735][633]LogContentValidation: Display: Validating Blueprint /Game/SuperGrid/TutorialLevel/Blueprints/LevelElements/BP_Elevator.BP_Elevator
+[2021.03.31-04.34.05:491][ 78]Cmd: EDIT COPY
+[2021.03.31-04.34.05:720][ 95]Cmd: EDIT PASTE
+[2021.03.31-04.34.18:401][416]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.31-04.34.18:413][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.31-04.34.18:413][416]PIE: New page: PIE session: Arena1 (Mar 30, 2021, 8:34:18 PM)
+[2021.03.31-04.34.18:437][416]LogPlayLevel: Creating play world package: /Game/GameLevels/UEDPIE_0_Arena1
+[2021.03.31-04.34.18:473][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035500s)
+[2021.03.31-04.34.18:474][416]LogAIModule: Creating AISystem for world Arena1
+[2021.03.31-04.34.18:474][416]LogPlayLevel: PIE: World Init took: (0.001250s)
+[2021.03.31-04.34.18:474][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameLevels/Arena1.Arena1 to /Game/GameLevels/UEDPIE_0_Arena1.Arena1 (0.036924s)
+[2021.03.31-04.34.18:502][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2021.03.31-04.34.18:505][416]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.03.31-04.34.18:505][416]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.31-04.34.18:505][416]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.31-04.34.18:505][416]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.31-04.34.18:505][416]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.31-04.34.18:505][416]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.31-04.34.18:505][416]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.31-04.34.18:505][416]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.31-04.34.18:505][416]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.31-04.34.18:506][416]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.31-04.34.18:506][416]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.31-04.34.18:508][416]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.31-04.34.18:508][416]LogAudioMixer: Display: 1: FrontRight
+[2021.03.31-04.34.18:515][416]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.03.31-04.34.18:515][416]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.31-04.34.18:515][416]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.31-04.34.18:515][416]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.31-04.34.18:516][416]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.31-04.34.18:516][416]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.03.31-04.34.18:516][416]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.03.31-04.34.18:526][416]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.03.31-04.34.18:526][416]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.03.31-04.34.18:526][416]LogInit: FAudioDevice initialized.
+[2021.03.31-04.34.18:526][416]LogAudio: Display: Audio Device (ID: 14) registered with world 'Arena1'.
+[2021.03.31-04.34.18:533][416]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2021.03.31-04.34.18:544][416]LogWorld: Bringing World /Game/GameLevels/UEDPIE_0_Arena1.Arena1 up for play (max tick rate 0) at 2021.03.31-00.34.18
+[2021.03.31-04.34.18:544][416]LogWorld: Bringing up level for play took: 0.010712
+[2021.03.31-04.34.18:545][416]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.03.31-04.34.18:547][416]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2021.03.31-04.34.18:550][416]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'WeaponsBaseInfo' of length 3 in '/Game/FPS_AnimBP/Blueprints/BP_FPS_Character.BP_FPS_Character_C'!
+[2021.03.31-04.34.18:551][416]PIE: Server logged in
+[2021.03.31-04.34.18:552][416]PIE: Play in editor total start time 0.14 seconds.
+[2021.03.31-04.34.18:704][428]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1953.281 Y=94.317 Z=5747.490] for [Enemy_Character_C]
+[2021.03.31-04.34.18:804][438]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1568.328 Y=93.623 Z=5713.956] for [Enemy_Character_C]
+[2021.03.31-04.34.18:805][438]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1931.516 Y=110.401 Z=5721.563] for [Enemy_Character_C]
+[2021.03.31-04.34.18:904][450]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1597.417 Y=107.122 Z=5719.802] for [Enemy_Character_C]
+[2021.03.31-04.34.18:904][450]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1940.493 Y=129.251 Z=5705.487] for [Enemy_Character_C]
+[2021.03.31-04.34.19:105][474]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1603.255 Y=129.968 Z=5718.218] for [Enemy_Character_C]
+[2021.03.31-04.34.19:306][498]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1564.463 Y=90.270 Z=5742.060] for [Enemy_Character_C]
+[2021.03.31-04.34.19:506][522]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1939.599 Y=111.962 Z=5725.577] for [Enemy_Character_C]
+[2021.03.31-04.34.19:507][522]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1599.290 Y=151.141 Z=5738.031] for [Enemy_Character_C]
+[2021.03.31-04.34.19:605][534]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1927.909 Y=151.570 Z=5704.004] for [Enemy_Character_C]
+[2021.03.31-04.34.19:706][546]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1949.833 Y=136.685 Z=5736.578] for [Enemy_Character_C]
+[2021.03.31-04.34.19:707][546]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1615.855 Y=123.359 Z=5729.654] for [Enemy_Character_C]
+[2021.03.31-04.34.19:806][558]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1564.117 Y=113.259 Z=5731.248] for [Enemy_Character_C]
+[2021.03.31-04.34.19:807][558]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1925.668 Y=133.947 Z=5690.449] for [Enemy_Character_C]
+[2021.03.31-04.34.20:109][594]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1939.841 Y=134.224 Z=5739.539] for [Enemy_Character_C]
+[2021.03.31-04.34.20:209][606]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1932.139 Y=94.008 Z=5729.289] for [Enemy_Character_C]
+[2021.03.31-04.34.20:309][618]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1576.110 Y=113.915 Z=5720.026] for [Enemy_Character_C]
+[2021.03.31-04.34.20:310][618]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1952.171 Y=116.485 Z=5739.779] for [Enemy_Character_C]
+[2021.03.31-04.34.20:410][630]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=-1952.927 Y=124.097 Z=5729.626] for [Enemy_Character_C]
+[2021.03.31-04.34.20:411][630]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1577.182 Y=92.022 Z=5709.069] for [Enemy_Character_C]
+[2021.03.31-04.34.20:603][653]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1616.853 Y=96.899 Z=5712.735] for [Enemy_Character_C]
+[2021.03.31-04.34.20:907][689]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=1602.962 Y=120.558 Z=5736.783] for [Enemy_Character_C]
+[2021.03.31-04.34.29:769][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-04.34.29:769][748]LogWorld: BeginTearingDown for /Game/GameLevels/UEDPIE_0_Arena1
+[2021.03.31-04.34.29:769][748]LogWorld: UWorld::CleanupWorld for Arena1, bSessionEnded=true, bCleanupResources=true
+[2021.03.31-04.34.29:773][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-04.34.29:791][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.31-04.34.29:803][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.31-04.34.29:822][748]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.03.31-04.34.29:824][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-04.34.29:825][748]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.03.31-04.34.29:836][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.31-04.34.29:845][748]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.03.31-04.34.29:883][749]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.03.31-04.34.30:464][816]LogEditorViewport: Clicking on Actor (LMB): BP_Elevator_C (Sample_Elevator4)
+[2021.03.31-04.34.31:490][932]LogEditorViewport: Clicking on Actor (LMB): BP_Elevator_C (Sample_Elevator4)
+[2021.03.31-04.34.31:976][988]Cmd: DELETE
+[2021.03.31-04.34.31:976][988]Cmd: ACTOR DELETE
+[2021.03.31-04.34.31:996][988]LogEditorActor: Deleted Actor: BP_Elevator_C
+[2021.03.31-04.34.32:017][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.03.31-04.34.32:019][988]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2021.03.31-04.34.40:551][587]LogEditorViewport: Clicking on Actor (LMB): BP_Elevator_C (Sample_Elevator2)
+[2021.03.31-04.34.45:732][175]Cmd: TRANSACTION UNDO
+[2021.03.31-04.34.45:732][175]LogEditorTransaction: Undo Move Actors
+[2021.03.31-04.34.46:288][206]LogEditorViewport: Clicking on Actor (LMB): BP_Elevator_C (Sample_Elevator2)
+[2021.03.31-04.34.53:670][ 69]LogEditorViewport: Clicking on Actor (LMB): BP_Elevator_C (Sample_Elevator3)
+[2021.03.31-04.35.00:789][888]Cmd: DELETE
+[2021.03.31-04.35.00:789][888]Cmd: ACTOR DELETE
+[2021.03.31-04.35.00:798][888]LogEditorActor: Deleted Actor: BP_Elevator_C
+[2021.03.31-04.35.00:820][888]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2021.03.31-04.35.00:823][888]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2021.03.31-04.35.02:903][135]LogEditorViewport: Clicking on Actor (LMB): BP_Elevator_C (Sample_Elevator2)
+[2021.03.31-04.35.12:385][252]Cmd: EDIT COPY
+[2021.03.31-04.35.12:606][278]Cmd: EDIT PASTE
+[2021.03.31-04.35.18:025][886]LogEditorViewport: Clicking on Actor (LMB): BP_Elevator_C (Sample_Elevator2)
+[2021.03.31-04.36.00:647][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.03.31-04.36.01:481][661]LogSlate: Window 'Save Content' being destroyed
+[2021.03.31-04.36.01:520][661]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.03.31-04.36.01:639][661]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/ProjectNova/Saved/Arena15C8048874811BE4A58F69685DEA1BEA5.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/ProjectNova/Content/GameLevels/Arena1.umap'
+[2021.03.31-04.36.01:656][661]LogFileHelpers: Saving map 'Arena1' took 0.158
+[2021.03.31-04.36.01:847][661]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.03.31-04.36.02:223][661]LogSavePackage: Moving '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/ProjectNova/Saved/StarterTutorialEEFBDA724DCF91B26BB256BD3ED6D277.tmp' to '../../../../../../Users/ctlen/Desktop/Portfolio/Projects WIP/ProjectNova/Content/SuperGrid/TutorialLevel/StarterTutorial.umap'
+[2021.03.31-04.36.02:337][661]LogFileHelpers: Saving map 'StarterTutorial' took 0.680
+[2021.03.31-04.36.02:365][661]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.31-04.36.02:365][661]LogContentValidation: Display: Validating World /Game/SuperGrid/TutorialLevel/StarterTutorial.StarterTutorial
+[2021.03.31-04.36.02:365][661]LogContentValidation: Display: Validating World /Game/GameLevels/Arena1.Arena1
+[2021.03.31-04.36.39:189][911]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
